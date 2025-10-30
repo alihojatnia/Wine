@@ -21,8 +21,6 @@ Perfect for learning MLOps, showcasing in a portfolio, or using as a template.
 - **11 features** (fixed acidity, citric acid, alcohol, etc.)  
 - **Target**: `high_quality` = 1 if quality ≥ 7
 
-> Small, real, and scientifically meaningful — ideal for demos.
-
 ---
 
 ## Quick Start

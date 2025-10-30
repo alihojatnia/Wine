@@ -90,7 +90,7 @@ Open [http://localhost:5000](http://localhost:5000) to explore:
 - **Environment** → locked via `poetry.lock`  
 - **Experiments** → tracked in `mlruns/` + MLflow UI  
 
-> Change a parameter → commit → `dvc repro` → new version, new run. **Zero surprises.**
+> Change a parameter → commit → `dvc repro` → new version, new run.
 
 ---
 
@@ -112,17 +112,6 @@ dvc repro
 ```
 
 New model, new metrics, new MLflow run — all versioned.
-
----
-
-
-## Contributing
-
-Ideas? Improvements? PRs welcome!  
-Try:
-- Adding XGBoost or Logistic Regression
-- Feature engineering (e.g., alcohol × pH)
-- Unit tests or GitHub Actions CI
 
 ---
 

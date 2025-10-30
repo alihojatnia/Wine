@@ -144,6 +144,31 @@ ENV/
 env.bak/
 venv.bak/
 
+# === CUSTOM ADDITIONS ===
+
+# Python environments & locks
+.env
+.venv
+poetry.lock
+
+# MLflow
+mlruns/
+
+# DVC
+.dvc/cache
+.dvc/tmp
+
+# Data & outputs
+data/raw/*
+!data/raw/.gitkeep
+data/processed/
+models/
+metrics/
+
+# IDE
+.idea/
+.vscode/
+
 # Spyder project settings
 .spyderproject
 .spyproject

@@ -1,5 +1,5 @@
-```markdown
-# Wine Quality Prediction – MLflow + DVC Demo
+
+## Wine Quality Prediction – MLflow + DVC Demo
 
 
 A clean, professional, and fully reproducible machine learning project that predicts whether a red wine is *high quality* (rating ≥ 7) using its chemical properties.
@@ -14,7 +14,7 @@ Perfect for learning MLOps, showcasing in a portfolio, or using as a template.
 
 ---
 
-## Dataset
+### Dataset
 
 **Red Wine Quality** – [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality)  
 - **1,599 samples**  
